@@ -16,11 +16,13 @@ body {
 
 h1,
 h2,
-h3,
-h4,
-h5,
-h6 {
+h5
+{
   color: #1e1e1e;
+}
+
+h3, h6{
+  color: #fff;
 }
 
 a {
